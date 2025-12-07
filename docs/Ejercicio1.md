@@ -103,7 +103,7 @@ Despues, se hara el push con el comando:
 ## 7. Sitio web subido en GitHub Pages:
 La url de la pagina es esta:
 
-https://yerayyeray.github.io/minima/
+ [https://yerayyeray.github.io/minima/](https://yerayyeray.github.io/minima/)
 
 Este es el aspecto que tiene el sitio web ya subido en GitHub Pages:
 
