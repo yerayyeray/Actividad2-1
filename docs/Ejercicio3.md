@@ -113,7 +113,7 @@ Cuando el sitio termine de desplegarse, ya se podra acceder a traves de la url
 ## 7. Sitio web subido en GitHub Pages:
 La url de la pagina es esta:
 
-https://jekyll-theme-yat.netlify.app
+[https://jekyll-theme-yat.netlify.app](https://jekyll-theme-yat.netlify.app)
 
 Este es el aspecto que tiene el sitio web ya subido en GitHub Pages:
 
