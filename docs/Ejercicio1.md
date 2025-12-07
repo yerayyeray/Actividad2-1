@@ -89,10 +89,11 @@ git add .
 git commit -m "comentario"
 ```
 
-Si se quiere subir directamente a GitHub Pages se puede hacer subiendolo al remoto desde la rama gh-pages, la cual se puede crear así:
+Para subirlo a GitHub Pages se debe el push subiendolo al remoto desde la rama gh-pages, la cual se crea así:
+
 > git checkout -b gh-pages
 
-Si no se hace así, se puede hacer desde la interfaz de GitHub desde aquí:
+Y se puede comprobar desde GitHub aquí:
 
 ![ghpages](./img/Ejercicio1/ghpages.png)
 
